@@ -20,7 +20,7 @@ export async function createAlerts(client: BackpackTFAPI, items: { [itemName: st
 
     // Args:
     //     client:
-    //       backpack.tf API client. You can get it by initializing object of backpack_api.py class.
+    //       backpack.tf API client.
     //     items:
     //       Dictionary of items for which alerts will be created.
 
